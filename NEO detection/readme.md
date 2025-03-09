@@ -1,0 +1,2 @@
+# This projects aim to bring closer the world of asteroid and comets to common users. It provides a visualized path of the predicted trajectory of identified object.
+# This employs the use of Deep Learning Algorithms like LSTM for trajectory prediction and Unsupervised Machine Learning Algorithm for object Identification purpose  
